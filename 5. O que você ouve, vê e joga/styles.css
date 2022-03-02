@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p {
+    padding: 0 30px 50px 30px;
+}
+
+img {
+    width: 800px;
+}
+
+hr {
+    width: 1200px;
+}
