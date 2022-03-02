@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgba(240, 225, 255, 0.911);
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+    
+img {
+    align-self: center;
+    width: 70%;
+}
+
+a {
+    align-self: center;
+    width: 70%;
+}
+
+#bait {
+    width: 100%;
+}
+
+
+section {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    font-weight: bold;
+    font-size: 80px;
+    border: 10px solid #ffffff34;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 700px;
+    padding: 30px;
+    text-align: center;    
+}
